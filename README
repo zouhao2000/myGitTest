@@ -16,4 +16,10 @@ Creating a new branch is quick
 
 Add merge
 
+<<<<<<< HEAD
 master branch feature1
+=======
+
+
+dev branch feature 1
+>>>>>>> feature1
