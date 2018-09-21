@@ -6,20 +6,14 @@ Git is free
 
 Git is fun
 
-<<<<<<< HEAD
 Creating a new branch is quick & simple
-=======
+
 Creating a new branch
 
 Creating a new branch is quick
->>>>>>> feature1
 
-Add merge
-
-<<<<<<< HEAD
 master branch feature1
-=======
-
 
 dev branch feature 1
->>>>>>> feature1
+
+dev branch feature 11
